@@ -19,7 +19,7 @@ Ngoài ra còn triển khai Math Type (viết công thức toán và hóa học)
 
 ## MUA 3 TRONG 1 ##
 
-Khi quí khách mua một tài khoản office 365 được tặng kèm 1 office 365 A1 dành cho giảng viên, 1 key windows 10 (Enterprise hoặc Pro hoặc Education)! 
+Khi quí khách mua một tài khoản office 365 được tặng kèm 1 office 365 A1 dành cho giảng viên (có Onedrive 1Tb), 1 key windows 10 (Enterprise hoặc Pro hoặc Education)! 
 
 ### Giá chỉ 100k ###
 
