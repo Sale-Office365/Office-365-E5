@@ -9,13 +9,15 @@ Cài đặt Office dành cho thiết bị di động trên tối đa 5 PC hoặc
 
 ## Office 365 E5 bao gồm: ##
 
-(Sẽ chèn ảnh vào), đặc biệt có Onedrive 5Tb
+![1](https://user-images.githubusercontent.com/103977676/164583290-8a25d27d-4944-46d7-a1ed-0c5c08e9aaf1.jpg)
 
-Tôi tích hợp thêm một số giấy phép:
+## Tôi tích hợp thêm một số giấy phép ##
 
-(Sẽ chèn ảnh vào)
+![1](https://user-images.githubusercontent.com/103977676/164583536-8d325ad9-7ed4-4324-8908-adb84b684fca.jpg)
 
-Ngoài ra còn triển khai Math Type (viết công thức toán và hóa học) trực tiếp trên office web cũng như office for desktop.
+## Đã triển khai Math Type (viết công thức toán và hóa học) trực tiếp trên office web cũng như office for desktop ##
+
+![1](https://user-images.githubusercontent.com/103977676/164584227-2295ff84-77f7-43c5-b9cc-a043ec7e7f0f.jpg)
 
 ## MUA 3 TRONG 1 ##
 
